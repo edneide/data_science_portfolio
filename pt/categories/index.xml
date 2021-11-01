@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Meu portfoloio</title>
+    <link>https://edneide.github.io/data_science_portfolio/pt/categories/</link>
+    <description>Recent content in Categories on Meu portfoloio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://edneide.github.io/data_science_portfolio/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

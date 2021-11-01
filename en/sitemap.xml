@@ -8,8 +8,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,8 +23,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/post/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,16 +36,46 @@
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/chapter-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://edneide.github.io/data_science_portfolio/post/chapter-6/"
+                />
   </url><url>
     <loc>https://edneide.github.io/data_science_portfolio/post/chapter-5/</loc>
     <lastmod>2017-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/chapter-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://edneide.github.io/data_science_portfolio/post/chapter-5/"
+                />
   </url><url>
     <loc>https://edneide.github.io/data_science_portfolio/post/chapter-4/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/chapter-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://edneide.github.io/data_science_portfolio/post/chapter-4/"
+                />
   </url><url>
     <loc>https://edneide.github.io/data_science_portfolio/tags/scene/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
@@ -53,8 +83,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/tags/scene/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,8 +98,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/tags/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -81,11 +111,31 @@
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/chapter-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://edneide.github.io/data_science_portfolio/post/chapter-3/"
+                />
   </url><url>
     <loc>https://edneide.github.io/data_science_portfolio/post/chapter-2/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://edneide.github.io/data_science_portfolio/post/chapter-2/"
+                />
   </url><url>
     <loc>https://edneide.github.io/data_science_portfolio/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
@@ -93,8 +143,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/post/chapter-1/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -105,14 +155,24 @@
     <loc>https://edneide.github.io/data_science_portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://edneide.github.io/data_science_portfolio/about/"
+                />
   </url><url>
     <loc>https://edneide.github.io/data_science_portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/categories/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -125,8 +185,8 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://edneide.github.io/data_science_portfolio/fr/contact/"
+                hreflang="pt"
+                href="https://edneide.github.io/data_science_portfolio/pt/contact/"
                 />
     <xhtml:link
                 rel="alternate"
